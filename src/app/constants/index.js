@@ -7,39 +7,39 @@ export const navLinks = [
 },
 {
     label: "News", 
-    route:  "/",
+    route:  "/News",
  },
  {
     label: "Sports", 
-    route:  "/",
+    route:  "/Sports",
  },
  {
     label: "Business", 
-    route:  "/",
+    route:  "/Business",
  },
  {
     label: "Innovation", 
-    route:  "/",
+    route:  "/Innovation",
  },
  {
     label: "Culture", 
-    route:  "/",
+    route:  "/Culture",
  },
  {
     label: "Arts", 
-    route:  "/",
+    route:  "/Arts",
  },
  {
     label: "Travel", 
-    route:  "/",
+    route:  "/Travel",
  },
  {
     label: "Earth", 
-    route:  "/",
+    route:  "/Earth",
  },
  {
     label: "Weather", 
-    route:  "/",
+    route:  "/Weather",
  },
 
 ];
