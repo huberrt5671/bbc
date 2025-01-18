@@ -99,3 +99,53 @@ export const welcomeLinks3 = [
       
    },
 ];
+
+export const onlybbcLinks = [
+   {
+      title: "Flames ignite homes and cars as 30,0000 people ordered to evacuate from Los Angeles wildfire.",
+      desc: "The fire exploded from 20 acres to 1,200 acres in mere hours and wind speed could soon 10mph (16km/hr).",
+      image: "/images/4A.webp",
+      time: "23 hrs ago",
+   },
+
+   {
+      title: "Flames ignite homes and cars as 30,0000 people ordered to evacuate from Los Angeles wildfire.",
+      desc: "The fire exploded from 20 acres to 1,200 acres in mere hours and wind speed could soon 10mph (16km/hr).",
+      image: "/images/4B.webp",
+      time: "23 hrs ago",
+   },
+
+  
+];
+
+export const MoreNewsLinks = [
+   {
+      title: "Millions start bathing in holy rivers at India's biggest Hindu festival",
+      time: "20 hrs ago",
+      route: "/"
+   },
+
+   {
+      title: "Dalit woman in India alleges rape by 64 men over five years",
+      time: "6 hrs ago",
+      route: "/"
+   },
+
+   {
+      title: "Three things that have shifted towards Gaza hostage deal",
+      time: "6 mins ago",
+      route: "/"
+   },
+
+   {
+      title: "Nigeria military kills 16 civilians in air strike mistake",
+      time: "5 hrs ago",
+      route: "/"
+   },
+
+   {
+      title: "South Korea impeached president gets pay rise",
+      time: "5 hrs ago",
+      route: "/"
+   },
+]

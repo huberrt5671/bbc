@@ -8,7 +8,7 @@ const Welcomecard3 = ({ title, desc, time }) => {
         <span className="flex font-bold underline text-2xl">
             {title}
         </span>
-        <p clasName="flex w-full justify-center">
+        <p className="flex w-full justify-center">
             {desc}
         </p>
         <p className="flex justify-right">
